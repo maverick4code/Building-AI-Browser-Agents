@@ -14,7 +14,7 @@ This project explore how to create **autonomous agents** capable of interacting 
   - **Direct Preference Optimization (DPO)**
 - **Develop End-to-End Solutions:** Build agents that handle tasks such as:
   - Finding and summarizing webpages
-  - Scraping course data from sites like DeepLearning.AI
+  - Scraping project data from sites like DeepLearning.AI
   - Automating form-filling and sign-up processes
 - **Understand Real-World Constraints:** Dive into the challenges and future of AI agents, including action explosion, error handling, and long-term memory planning.
 
@@ -60,7 +60,7 @@ jupyter notebook
 ```
 
 ## 🎯 Sample Use-Cases
-1) 🔍 Scraping Course Info: Scrape and structure course recommendations from DeepLearning.AI
+1) 🔍 Scraping Project Info: Scrape and structure project recommendations from DeepLearning.AI
 2) 📝 Form Submission: Automate newsletter sign-ups or contact forms
 3) 🧠 Autonomous Browsing: Use MCTS to explore websites intelligently and take goal-directed actions
 
