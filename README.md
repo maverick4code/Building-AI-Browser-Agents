@@ -1,8 +1,6 @@
 # 🤖 Building AI Browser Agents
 
-Welcome to the **AI Browser Agents** project! This repository contains Jupyter notebooks, code implementations, and notes inspired by the [Building AI Browser Agents](https://learn.deeplearning.ai/courses/building-ai-browser-agents/lesson/ee5yw/introduction) course by **DeepLearning.AI**, created in collaboration with **AGI Inc.** and taught by **Div Garg** and **Naman Garg**.
-
-This course and project explore how to create **autonomous agents** capable of interacting with websites — from navigating the DOM to filling forms and summarizing content — using powerful decision-making frameworks like **Monte Carlo Tree Search (MCTS)** and **AgentQ**.
+This course and project explore how to create **autonomous agents** capable of interacting with websites, from navigating the DOM to filling forms and summarizing content — using powerful decision-making frameworks like **Monte Carlo Tree Search (MCTS)** and **AgentQ**.
 
 ---
 
@@ -90,15 +88,7 @@ Future directions:
 ---
 
 ## 🤝 Credits
-DeepLearning.AI – Building AI Browser Agents
-Div Garg and Naman Garg – Co-founders of AGI Inc.
 The AGI Inc. team – For pioneering work in browser automation and intelligent web agents
-
----
-
-## 📬 License
-This project is for educational and research purposes only.
-For commercial use, please refer to the licensing terms of DeepLearning.AI and AGI Inc.
 
 ---
 
