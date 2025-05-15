@@ -1,6 +1,6 @@
 # 🤖 Building AI Browser Agents
 
-This course and project explore how to create **autonomous agents** capable of interacting with websites, from navigating the DOM to filling forms and summarizing content — using powerful decision-making frameworks like **Monte Carlo Tree Search (MCTS)** and **AgentQ**.
+This project explore how to create **autonomous agents** capable of interacting with websites, from navigating the DOM to filling forms and summarizing content — using powerful decision-making frameworks like **Monte Carlo Tree Search (MCTS)** and **AgentQ**.
 
 ---
 
